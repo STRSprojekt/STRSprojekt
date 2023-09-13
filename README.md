@@ -27,11 +27,13 @@ I’m an indie developer who loves to create apps and games that are fun, useful
 			<td width="50%">
 				<h3 align="center">ApexM Sensitvity Calculator</h3>
 				<div align="center">  
+					<row>
 					<a href="https://github.com/STRSprojekt/STRSprojekt/blob/main/apexmsenscalc/logo.png" >
-						<img src="logo.png" alt="project 1 target="_blank"" height="100%" />
+						<img src="apexmsenscalc/logo.png" alt="project 1" width="20%" />
 					</a>
 					<a href="https://github.com/STRSprojekt/STRSprojekt/blob/main/apexmsenscalc/Mockup.png" >
-						<img src="Mockup.png" alt="project 1" height="100%" />
+						<img src="apexmsenscalc/Mockup.png" alt="project 1" width="20%" />
+					</row>
 					</a>
 					<br>
 					<br>
@@ -43,9 +45,9 @@ I’m an indie developer who loves to create apps and games that are fun, useful
               <img src="https://img.shields.io/badge/Discontinued-lightgrey?style=for-the-badge&color=ff5252"/>
 						</a>
 					</p>
-					<p><strong>Dart, Flutter, Firebase, GetX</strong></p>
+					<p><strong>Dart, Flutter, Firebase, GetX,</strong></p>
           <p>
-            Application to adjust your Apex Mobile Sensitivity
+            This Application help Apex Mobile Gamers to improve gameplay by adjusting camera sensitivity and gyroscope sensitivity.
 					</p><p>Note: Because the game was permanently shut down on May 1, 2023, I stopped developing this application and didn't publish it on Playstore.</p>
           <p>
 						<a href="https://github.com/STRSprojekt/apexmsenscalc" target="_blank">
