@@ -27,16 +27,19 @@ I’m an indie developer who loves to create apps and games that are fun, useful
 			<td width="50%">
 				<h3 align="center">ApexM Sensitvity Calculator</h3>
 				<div align="center">  
-					<a href='https://github.com/STRSprojekt' >
-						<img src="apexmsenscalc_mockup.png" alt="project 1 target="_blank"" height="100%" />
+					<a href="https://github.com/STRSprojekt/STRSprojekt/blob/main/apexmsenscalc/logo.png" >
+						<img src="logo.png" alt="project 1 target="_blank"" height="100%" />
+					</a>
+					<a href="https://github.com/STRSprojekt/STRSprojekt/blob/main/apexmsenscalc/Mockup.png" >
+						<img src="Mockup.png" alt="project 1" height="100%" />
 					</a>
 					<br>
 					<br>
           <p>
-						<a href="https://github.com/STRSprojekt" target="_blank">
+						<a href="https://github.com/STRSprojekt/apexmsenscalc" target="_blank">
 							<img src="https://img.shields.io/badge/Unreleased-lightgrey?style=for-the-badge&color=ffff00"/>
 						</a>  
-						<a href="https://github.com/STRSprojekt" target="_blank">
+						<a href="https://github.com/STRSprojekt/apexmsenscalc" target="_blank">
               <img src="https://img.shields.io/badge/Discontinued-lightgrey?style=for-the-badge&color=ff5252"/>
 						</a>
 					</p>
@@ -45,7 +48,7 @@ I’m an indie developer who loves to create apps and games that are fun, useful
             Application to adjust your Apex Mobile Sensitivity
 					</p><p>Note: Because the game was permanently shut down on May 1, 2023, I stopped developing this application and didn't publish it on Playstore.</p>
           <p>
-						<a href="https://github.com/STRSprojekt" target="_blank">
+						<a href="https://github.com/STRSprojekt/apexmsenscalc" target="_blank">
 							<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 						</a>  
 					</p>
