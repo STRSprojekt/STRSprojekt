@@ -45,7 +45,7 @@ I’m an indie developer who loves to create apps and games that are fun, useful
               <img src="https://img.shields.io/badge/Discontinued-lightgrey?style=for-the-badge&color=ff5252"/>
 						</a>
 					</p>
-					<p><strong>Dart, Flutter, Firebase, GetX,</strong></p>
+					<p><strong>Dart, Flutter, Firebase, GetX</strong></p>
           <p>
             This Application help Apex Mobile Gamers to improve gameplay by adjusting camera sensitivity and gyroscope sensitivity.
 					</p><p>Note: Because the game was permanently shut down on May 1, 2023, I stopped developing this application and didn't publish it on Playstore.</p>
